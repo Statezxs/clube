@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.banner, .piscina, .cobertas, .criancas{
+    width: 600px;
+}
+.piscina, .cobertas, .criancas{
+    border: #6a9eda solid 5px;
+}
+
+b{
+    color: #6a9eda;
+}
+h1, h2, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 13%;
+    margin-right: 13%;
+    text-align: justify;
+}
+.italico{
+    border-left: #6a9eda 5px solid;
+}
+
+.banner{
+    margin-top: 20px;
+    border-top: solid 3px;
+    border-bottom: solid 3px;
+    border-color: #6a9eda;
+    padding: 30px;
+}
